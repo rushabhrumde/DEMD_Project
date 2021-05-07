@@ -9,7 +9,7 @@ RUN pip install -U pip
 COPY requirements.txt app/requirements.txt
 RUN pip install -r app/requirements.txt
 
-# Create a new directory for app (keep it in its own directory)
+#Create a new directory for app (keep it in its own directory)
 COPY saved_model.pb /app
 COPY imdb_main.py /app
 

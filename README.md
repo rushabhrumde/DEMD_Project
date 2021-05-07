@@ -50,5 +50,4 @@ We can test our API.
 We create a Dockerfile.
 
 # Conclusion
-
 After going through the process of working around FastAPI and Docker, I feel this skillset is a necessary repertoire in a data scientist's toolkit. The process of building around our model and deploying it has become easier and much more accessible than it was before.

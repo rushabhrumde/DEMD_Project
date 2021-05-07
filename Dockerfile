@@ -13,5 +13,5 @@ RUN pip install -r app/requirements.txt
 COPY saved_model.pb /app
 COPY imdb_main.py /app
 
-# Run
+#Run
 CMD ["python","imdb_main.py"]

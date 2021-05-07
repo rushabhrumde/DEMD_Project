@@ -1,1 +1,1 @@
-web: uvicorn imdb_main:app --preload
+web: uvicorn imdb_main:app

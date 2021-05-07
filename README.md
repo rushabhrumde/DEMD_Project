@@ -46,11 +46,23 @@ Uvicorn is a lightning-fast ASGI server implementation, which creates a server o
 
 We can test our API.
 
+![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/FASTAPI_App_Home.png)
+
+![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/FASTAPI_App_Test.png)
+
+![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/FASTAPI_App_Pred.png)
+
 # Docker
 We create a Dockerfile.
 
+![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/DOCKER_BUILD_Image.png)
+
+![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/Docker_Running.png)
+
 # Heroku
 We also Build an Heroku app for the same.
+
+![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/Heroku_Build.png)
 
 # Conclusion
 After going through the process of working around FastAPI and Docker, I feel this skillset is a necessary repertoire in a data scientist's toolkit. The process of building around our model and deploying it has become easier and much more accessible than it was before.

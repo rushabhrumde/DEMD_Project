@@ -1,1 +1,1 @@
-web: uvicorn imdb_main:app
+web: uvicorn imdb_main:app --host 0.0.0.0 --port=$PORT

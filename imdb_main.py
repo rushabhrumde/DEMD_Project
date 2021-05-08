@@ -5,7 +5,7 @@ from fastapi import FastAPI
 import tensorflow as tf
 app = FastAPI()
 
-model = tf.keras.models.load_model('tf_keras_imdb')
+model = tf.keras.models.load_model('tf_keras_imdb/saved_model.pb')
 
 
 class Reviews(BaseModel):

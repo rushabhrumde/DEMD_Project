@@ -55,14 +55,14 @@ We can test our API.
 ![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/FASTAPI_App_Pred.png)
 
 ## Docker
-We create a Dockerfile.
+Created a Dockerfile.
 
-![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/DOCKER_BUILD_Image.png)
+![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/Docker_Build.png)
 
-![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/Docker_Running.png)
+![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/Docker_Run.png)
 
 ## Heroku
-We also Build an Heroku app for the same.
+Built an Heroku app for the same.
 
 ![](https://github.com/rushabhrumde/DEMD_Project/blob/main/Output%20Screenshots/Heroku_Build.png)
 

@@ -1,4 +1,4 @@
-# Text Classification on IMDb Reviews.
+## Text Classification on IMDb Reviews.
 
 We are going to build a TensorFlow model (v2) and using FastAPI create REST API calls to predict from the model, and finally containerize it using Docker.😃
 
